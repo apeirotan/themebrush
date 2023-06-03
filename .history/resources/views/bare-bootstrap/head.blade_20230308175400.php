@@ -1,0 +1,1 @@
+<link href="{!! asset('views/bare-bootstrap/css/styles.css') !!}" rel="stylesheet">

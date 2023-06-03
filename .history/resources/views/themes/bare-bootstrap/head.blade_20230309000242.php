@@ -1,0 +1,2 @@
+
+{{asset('css/style.css')}}

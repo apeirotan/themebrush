@@ -1,0 +1,1 @@
+@vite(['resources/views/{{ env('APP_THEME') }}/css/styles.css'])
