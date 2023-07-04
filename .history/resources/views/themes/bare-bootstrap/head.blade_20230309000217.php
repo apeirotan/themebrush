@@ -1,2 +1,0 @@
-
-{{asset('css/style.css')}}
